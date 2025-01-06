@@ -10,3 +10,23 @@ Message Broadcasting: Clients can send and receive messages in real-time.
 File Sharing: Clients can share files with others in the network.
 Server Discovery: Clients automatically locate the server within the local network.
 Cross-Platform: Works on Windows and Android devices.
+
+# How to Run
+Server
+Save the server.py script to a desired directory.
+Run the server script:
+bash
+Copy code
+python server.py
+The server starts on the local IP and port 8080 and listens for client connections.
+Client
+Save the client.py script to a desired directory.
+Run the client script:
+bash
+Copy code
+python client.py
+Enter your name when prompted.
+The client automatically discovers the server and connects.
+Use the interface to:
+Send messages.
+Send files (type send file when prompted and provide the file path)
