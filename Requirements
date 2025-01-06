@@ -1,0 +1,12 @@
+***Requirements***
+Python 3.8+
+Install Python from python.org.
+
+Required Python Modules
+Install the required modules using:
+
+pip install androidhelper
+Platform-Specific Requirements:
+
+Windows: No additional setup is required.
+Android: Install the SL4A (Scripting Layer for Android) library for running Python scripts on Android devices.
