@@ -6,6 +6,7 @@ Required Python Modules
 Install the required modules using:
 
 pip install androidhelper
+
 Platform-Specific Requirements:
 
 Windows: No additional setup is required.
